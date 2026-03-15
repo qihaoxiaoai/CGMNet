@@ -1,0 +1,5 @@
+{
+    "task_type": "reg",
+    "n_tasks": 1,
+    "metrics": ["rmse", "mae", "r2"]
+}
