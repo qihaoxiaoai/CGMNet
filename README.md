@@ -54,7 +54,7 @@ python 02_generate_features.py --mode pretrain --input_path ../jobs/pretrain_dat
 Example:
 
 ```bash
-python 02_generate_features.py --mode pretrain --input_path ../jobs/pretrain_dataset/1_brics_vanilla/data/cleaned.smi --n_jobs 64
+python 02_generate_features.py --mode pretrain --input_path ../jobs/pretrain_dataset/1_brics_overlap/data/cleaned.smi --n_jobs 16
 ```
 
 ### Step 3: Build LMDB files
