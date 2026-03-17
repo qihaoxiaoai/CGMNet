@@ -42,6 +42,7 @@ Example:
 
 ```bash
 python 01_build_vocabulary.py --frag_method brics_overlap --input_smi_path ../jobs/pretrain_dataset/pretrain.smi --output_dir ../jobs/pretrain_dataset/1_brics_overlap
+python 02_filter_vocab.py  --input_vocab  ../jobs/pretrain_dataset/1_brics_overlap/vocabs/vocab.txt   --input_vocab  ../jobs/pretrain_dataset/1_brics_overlap/vocabs/vocab.txt --max_atoms 25   --min_count 5
 ```
 
 ### Step 2: Generate features
