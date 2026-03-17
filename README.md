@@ -156,7 +156,7 @@ The same preprocessing and fine-tuning pipeline can be applied to datasets organ
 
 ## Reproducibility of the results reported in the paper
 
-This section provides the information required to reproduce the main results reported in our paper, including dataset splits, processed files, checkpoints, and evaluation settings. The data for the minimal reproducible version can be downloaded from the following **link**
+This section provides the information required to reproduce the main results reported in our paper, including dataset splits, processed files, checkpoints, and evaluation settings. The data for the minimal reproducible version can be downloaded from the following [**link**](https://drive.google.com/drive/folders/1k9jSGF7fjPRb9M_cpcz7f5OUssACbtel?usp=drive_link).
 
 ### Datasets and processed files
 
