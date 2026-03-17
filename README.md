@@ -66,7 +66,7 @@ python 03_build_lmdb.py --frag_method [FRAG_METHOD] --smi_file ../jobs/pretrain_
 Example:
 
 ```bash
-nohup python 03_build_lmdb.py --frag_method brics_vanilla --smi_file ../jobs/pretrain_dataset/1_brics_vanilla/data/cleaned.smi --vocab_path ../jobs/pretrain_dataset/1_brics_vanilla/vocabs/vocab_filtered.txt --path_max_length 5 > _3_brics_vanilla.log 2>&1 &
+python 03_build_lmdb.py --frag_method brics_overlap   --smi_file   ../jobs/pretrain_dataset/1_brics_overlap/data/cleaned.smi --vocab_path ../jobs/pretrain_dataset/1_brics_overlap/vocabs/vocab_filtered.txt --path_max_length 5
 ```
 
 ## Pre-training
