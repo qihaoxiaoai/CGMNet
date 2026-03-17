@@ -41,7 +41,7 @@ python 01_build_vocabulary.py --frag_method [FRAG_METHOD] --input_smi_path ../jo
 Example:
 
 ```bash
-python 01_build_vocabulary.py --frag_method brics_overlap --input_smi_path ../jobs/pretrain_dataset/pretrain.smi
+python 01_build_vocabulary.py --frag_method brics_overlap --input_smi_path ../jobs/pretrain_dataset/pretrain.smi --output_dir ../jobs/pretrain_dataset/1_brics_overlap
 ```
 
 ### Step 2: Generate features
