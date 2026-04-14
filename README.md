@@ -195,7 +195,26 @@ If needed, these commands can also be executed with `nohup` for background runni
 If you find this repository useful, please cite our paper.
 
 ```bibtex
-# TODO
+
+
+
+
+
+
+
+
+@article{
+doi:10.26434/chemrxiv.15001561/v1,
+author = {Jianxin He  and Subhamoy Mahajan  and Nathaniel Straight  and Ying Li },
+title = {BRIDGING SMALL MOLECULES AND POLYMERS: A COARSE-GRAINED GRAPH PRETRAINING FRAMEWORK FOR POLYMER PROPERTY PREDICTION},
+journal = {ChemRxiv},
+volume = {2026},
+number = {0402},
+pages = {},
+year = {2026},
+doi = {10.26434/chemrxiv.15001561/v1},
+URL = {https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15001561/v1},
+eprint = {https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15001561/v1}}
 ```
 
 ## License
