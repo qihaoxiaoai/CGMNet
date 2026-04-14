@@ -195,14 +195,6 @@ If needed, these commands can also be executed with `nohup` for background runni
 If you find this repository useful, please cite our paper.
 
 ```bibtex
-
-
-
-
-
-
-
-
 @article{
 doi:10.26434/chemrxiv.15001561/v1,
 author = {Jianxin He  and Subhamoy Mahajan  and Nathaniel Straight  and Ying Li },
